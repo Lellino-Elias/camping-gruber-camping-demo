@@ -30,12 +30,12 @@ const campingGruber: CampsiteConfig = {
     {
       title: "Mittendrin — und doch abseits",
       text: "Nur durch die Bundesstraße vom Trubel getrennt: Du bist mitten im Eventgeschehen und kannst trotzdem jederzeit kommen und gehen.",
-      image: { src: `${IMG}/pillar-lage.webp`, alt: "Wohnmobile und Zelte auf der Wiese, dahinter Dorf, Kirche und die Berge des Murtals" },
+      image: { src: `${IMG}/pillar-lage.webp`, alt: "Das Red Bull Ring Wahrzeichen bei Spielberg — der ikonische Stier, zwei Kilometer vom Camping beim Gruber entfernt" },
     },
     {
       title: "Ebenes Wiesengelände",
       text: "Ein Hektar ebene Wiese — für Zelt, Wohnwagen oder Wohnmobil. Dein Fahrzeug parkst du direkt neben dem Stellplatz.",
-      image: { src: `${IMG}/pillar-wiese.webp`, alt: "Wohnwagen und Zelte auf der ebenen Wiese im Abendlicht, dahinter die Berge" },
+      image: { src: `${IMG}/pillar-wiese.webp`, alt: "Zelte und Wohnmobile auf der Eventwiese beim Camping Gruber, dahinter Schloss Spielberg und die Berge des Murtals" },
     },
     {
       title: "Einfach zu finden",
@@ -84,7 +84,7 @@ const campingGruber: CampsiteConfig = {
       {
         title: "Ein Hektar ebene Wiese",
         text: "Rund ein Hektar Wiese, eben und übersichtlich — genug Raum für Zelt, Wohnwagen und Wohnmobil, ohne dass es eng wird.",
-        image: { src: `${IMG}/feature-wiese.webp`, alt: "Zelte und Fahrzeuge auf der Eventwiese, im Hintergrund die Burg und die Berge" },
+        image: { src: `${IMG}/feature-wiese.webp`, alt: "Zelte und Wohnmobile auf der ebenen Wiese beim Gruber, dahinter Kirchturm und die Berge des Murtals" },
       },
     ],
   },
